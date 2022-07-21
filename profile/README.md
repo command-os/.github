@@ -24,6 +24,6 @@ As per the Creative Commons Attribution-NoCommercial-NoDerivatives 4.0 license, 
 
 We have a [Telegram Group](https://t.me/+-N87mVIqHvg4N2E8), if you'd like to ask questions, use GitHub's discussions feature.
 
-> Can I contact *you*, Visual specifically?
+> Can I contact *you*, Visual, specifically?
 
 Maybe...? Why? Do you have a crush on me, or, what?
