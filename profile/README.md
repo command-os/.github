@@ -1,17 +1,18 @@
 # BoxOS
+
 A modern, secure, fast, source-available Operating System developed by [@ChefKissInc](https://github.com/ChefKissInc), written in Rust.
 
 Not sure where to start? Check out [@BoxOperatingSystem/Cardboard](https://github.com/BoxOperatingSystem/Cardboard), BoxOS's Kernel.
 
-## FAQ
+## Frequently Asked Questions
 
-- Where can I download an image and try it out?
+> Where can I download an image and try it out?
 
-No release is publicly available, when the OS reaches a useable state, releases will be available in BoxOS's website.
+When the OS reaches a useable state, releases will be available in BoxOS's website.
 
-> Can I modify the code and create my own distribution of the Box Operating System and/or parts of it?
+> Could I create my own (public) distribution of the Box Operating System and/or parts of it?
 
-No, as per the Creative Commons Attribution-NoCommercial-NoDerivatives 4.0 license, you may not create derivatives of the Box Operating System or its components.
+No, as per the Creative Commons Attribution-NoCommercial-NoDerivatives 4.0 license, you may not create derivatives of the Box Operating System or its components. However, you may privately do changes and then submit them via patches to us.
 
 > Can I use the project for commercial purposes?
 
@@ -21,8 +22,8 @@ As per the Creative Commons Attribution-NoCommercial-NoDerivatives 4.0 license, 
 
 > Do you have a Discord or any community on any other social media platform.
 
-No, f you'd like to ask questions, use GitHub's discussions feature.
+We have a [Telegram Group](https://t.me/+-N87mVIqHvg4N2E8), if you'd like to ask questions, use GitHub's discussions feature.
 
-- Can I contact you?
+> Can I contact *you*, Visual specifically?
 
-No.
+Maybe...? Why? Do you have a crush on me, or, what?
